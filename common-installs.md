@@ -7,7 +7,7 @@ A list of things to install
 This is a package manager that is commonly used.
 <https://brew.sh/>
 
-```
+```shell
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
